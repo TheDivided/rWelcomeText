@@ -1,0 +1,6 @@
+name: FirstPlugin
+version: '${project.version}'
+main: me.divided.firstplugin.FirstPlugin
+api-version: 1.16
+authors: [ divided ]
+website: https://divided.shuoki.top
